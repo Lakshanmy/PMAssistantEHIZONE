@@ -33,7 +33,8 @@ ADMIN - Your Telegram Id
 
 ```
 ### ⚜️ Owner
-Thakshaka Rathnayake 
+Thakshaka Rathnayake,
+
 Developer - [Sandy](t.me/AmKuSaL)
  
 ©️2021 EHI ZONE All Rights Reserved
