@@ -5,7 +5,7 @@ Is it a nuisance to receive messages from strangers? PM Assistant Bot is for you
 This bot will help you to manage all your PMs and keep clean your chat list.
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thakshaka/PMAssistantTeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kusalCY/PMAssistantEHIZONE)
 
 ### ⚜️ USAGE
 
@@ -34,7 +34,8 @@ ADMIN - Your Telegram Id
 ```
 ### ⚜️ Owner
 Thakshaka Rathnayake 
+Developer - [Sandy](t.me/AmKuSaL)
  
-©️2021 TeLe TiPs All Rights Reserved
+©️2021 EHI ZONE All Rights Reserved
  
-Powered by #AAQ
+Powered by #CberHackers
