@@ -1,9 +1,9 @@
 {
-    "name": "PMAssistantTeLeTiPs",
+    "name": "PMAssistant@EHIZONE",
     "description": "A personal assistant to manage PMs",
     "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
-    "website": "https://PMAssistantTeLeTiPs/",
-    "repository": "https://github.com/Thakshaka/PMAssistantTeLeTiPs",
+    "website": "https://t.me/cyber0hacker",
+    "repository": "https://github.com/kusalCY/PMAssistantEHIZONE",
     "env": {
           "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
           "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
